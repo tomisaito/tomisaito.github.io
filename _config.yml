@@ -1,4 +1,6 @@
-title: tomisaito  # ページ上部の大きなタイトルになります
-logo: # 空欄にするか行ごと消すと、デフォルトのロゴ画像が消えます
-description: AI Researcher (Trainee) | Deep Learning Enthusiast # タイトルの下の説明文
-show_downloads: false # これをfalseにすると、不要なダウンロードボタンが消える場合があります
+title: tomisaito
+logo: 
+description: Aspiring AI Researcher | Deep Learning Enthusiast
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
