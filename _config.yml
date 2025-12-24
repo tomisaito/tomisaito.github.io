@@ -1,6 +1,4 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-minimal
+title: tomisaito  # ページ上部の大きなタイトルになります
+logo: # 空欄にするか行ごと消すと、デフォルトのロゴ画像が消えます
+description: AI Researcher (Trainee) | Deep Learning Enthusiast # タイトルの下の説明文
+show_downloads: false # これをfalseにすると、不要なダウンロードボタンが消える場合があります
