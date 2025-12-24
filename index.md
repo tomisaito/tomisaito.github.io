@@ -1,123 +1,27 @@
----
-layout: default
----
+# tomisaito
+Aspiring AI Researcher | Deep Learning Enthusiast
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## About Me
+I am studying to become an AI researcher.
+My learning focuses on deep learning with PyTorch, covering the fundamentals of computer vision, natural language processing, and generative AI.
+In the long term, I aim to contribute to both AI research and real-world applications.
 
-[Link to another page](./another-page.html).
+### Current Learning Stack
+* Python, PyTorch
+* Deep Learning (CNNs, RNNs, Transformers)
+* Git, FastAPI, Docker (currently learning)
 
-There should be whitespace between paragraphs.
+## Projects
+### 1. cifar10-image-classifier
+A production-oriented image classification API built with PyTorch and FastAPI.
+The model predicts one of the 10 CIFAR-10 categories from an input image.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### 2. my_hand_classifier
+A deep learning project that classifies three specific left-hand gestures.
+This model was designed as a thought experiment, focusing on data integrity and domain-specific assumptions rather than dataset scale.
 
-# Header 1
+### [My AI Portfolio](https://github.com/tomisaito/my-ai-portfolio)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+## Contact
+* **GitHub:** [github.com/tomisaito](https://github.com/tomisaito)
+* **Kaggle:** [kaggle.com/tomisaito](https://kaggle.com/tomisaito)
